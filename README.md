@@ -1,2 +1,2 @@
-# Chat-Application
-React + Firebase Chat App
+# Chat-App
+React-Firebase Chat App
